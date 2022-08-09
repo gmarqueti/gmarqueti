@@ -1,8 +1,7 @@
-## Olá! Eu sou o Gabriel Marqueti
+## Olá! Eu sou o Gabriel Marqueti, prazer em ver você por aqui!
 
 - 🔭 Hoje trabalho como auxiliar administrativo
 - 🌱 Estudando Ciência da Computação (Universidade Paulista)
-- 📫 Contate-me no email:bielmarqueti@gmail.com
 
 <div align="center">
   <a href="https://github.com/gmarqueti">
