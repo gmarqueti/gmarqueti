@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gabriel Marqueti, prazer em ver você por aqui!
 
-- 🔭 Hoje trabalho como auxiliar administrativo
+- 🔭 Hoje trabalho como Estagiário SiteOps na Quero Educação
 - 🌱 Estudando Ciência da Computação (Universidade Paulista)
 
 <div align="center">
