@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gabriel Marqueti, prazer em ver você por aqui!
 
 - 🔭 Hoje trabalho como Estagiário SiteOps na Quero Educação
-- 🌱 Estudando Ciência da Computação (Universidade Paulista)
+- 🌱 Estudando Ciência da Computação (Universidade Paulista - UNIP)
 
 <div align="center">
   <a href="https://github.com/gmarqueti">
