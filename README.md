@@ -1,6 +1,5 @@
 ## Hello, 
 
-- 🏠 @quero-edu
 - 📚 Computer scientist
   
 ##
