@@ -22,5 +22,3 @@
   <img align="center" alt="k8s" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
   <img align="center" alt="k8s" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
 </div>
-
-![snake gif](https://github.com/gmarqueti/gmarqueti/blob/output/github-contribution-grid-snake.gif)
